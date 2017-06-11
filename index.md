@@ -1,5 +1,5 @@
 ## Création de pages
-< Page précédente | [Page suivante >](http://simp.ly/publish/kl8fmr)
+< Page précédente | [Page suivante >](medias.md)
 
 Retour vers la [Table des matières](http://simp.ly/publish/kc5g8p) de « Découvrir WordPress »
 
