@@ -3,8 +3,8 @@
 
 Retour vers la [Table des matières](http://simp.ly/publish/kc5g8p) de « Découvrir WordPress »
 
-### Sujet 1
-Lorem ipsum dolor [Lien hypertexte](http://www.google.com) sit amet.
+### Écrire dans Dillinger.io
+Il est possible d'écrire les fichiers en markdown sur Dillinger.io, puis de les sauvegarder sur GitHub. Lorem ipsum, dolor sit amet.
 
 Insertion d'une image :
 
