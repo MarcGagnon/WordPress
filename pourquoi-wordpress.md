@@ -2,7 +2,7 @@
 Dans cette section, nous décrivons WordPress et faisons un survol de son fonctionnement ainsi que de ce qui explique sa très grande popularité.
 
 ## Définition
-WordPress est un **système de gestion de contenu** (SGC) ou *CMS*, de l'anglais *Content Management System*. Un système de gestion de contenu facilite la création de contenu pour le Web et comme le nom l'indique, la gestion des {...}
+WordPress est un **système de gestion de contenu** (SGC) ou *CMS*, de l'anglais *Content Management System*. Un système de gestion de contenu facilite la création de contenu pour le Web, et comme le nom l'indique, il simplifie aussi la gestion du contenu publié comme les pages, les articles et les images.
 
 ## WordPress est un logiciel libre
 Le code informatique permettant d'installer WordPress est disponible à quiconque voudrait le modifier pour l'améliorer ou en faire une version différente. On dit ainsi qu'il s'agit d'un **logiciel libre** (*open source*, en anglais), et par le fait même gratuit, puisque son **code source** n'appartient à aucun individu, ou entreprise privée, comme Microsoft, Apple ou Google.
